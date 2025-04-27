@@ -1,2 +1,3 @@
 # Hostel-Management-System
-This is Solve The Student Problem and Consume Hard copy Work
+Its project is solve students problems regarding hostel booking, 
+proving peaceful Environments and many more.
